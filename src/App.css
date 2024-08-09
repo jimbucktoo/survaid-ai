@@ -12,6 +12,7 @@ input.form-control:focus {
   display: flex;
   justify-content: flex-start;
   margin-bottom: 5px;
+  flex-direction: column;
 }
 
 .aiMessageText {
@@ -20,7 +21,16 @@ input.form-control:focus {
   padding: 10px;
   border-radius: 10px;
   max-width: 60%;
-  align-self: flex-end;
+  align-self: flex-start;
+  text-align: left;
+  margin-bottom: 2px;
+}
+
+.aiTimestamp {
+  font-size: 0.8em;
+  color: gray;
+  margin-top: 4px;
+  text-align: left;
 }
 
 .App {
@@ -86,6 +96,7 @@ input.form-control:focus {
   display: flex;
   justify-content: flex-end;
   margin-bottom: 5px;
+  flex-direction: column;
 }
 
 .userMessageText {
@@ -94,5 +105,14 @@ input.form-control:focus {
   padding: 10px;
   border-radius: 10px;
   max-width: 60%;
-  align-self: flex-start;
+  align-self: flex-end;
+  text-align: right;
+  margin-bottom: 2px;
+}
+
+.userTimestamp {
+  font-size: 0.8em;
+  color: gray;
+  margin-top: 4px;
+  text-align: right;
 }
