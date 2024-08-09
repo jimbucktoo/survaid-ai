@@ -49,7 +49,7 @@ input.form-control:focus {
   max-height: 440px;
   overflow-y: auto;
   padding: 10px;
-  width: 80%;
+  width: 60%;
   margin: 0 auto;
 }
 
@@ -68,7 +68,7 @@ input.form-control:focus {
   display: flex;
   align-items: center;
   margin: 0 auto;
-  width: 800px;
+  width: 60%;
 }
 
 .send {
