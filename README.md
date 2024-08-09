@@ -12,8 +12,7 @@ Survaid is a web and mobile application that facilitates real-time mobile sensor
 
 ## Technologies
 
-- [Firebase](https://firebase.google.com/) - Firebase is a set of backend cloud computing services and application development platforms provided by Google. It hosts databases, services, authentication, and integration for a variety of applications, including Android, iOS, JavaScript, Node.js, Java, Unity, PHP, and C++.
-- [Python](https://www.python.org/) - Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
+- [React](https://reactjs.org/) - React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies.
 
 ## Authors
 
