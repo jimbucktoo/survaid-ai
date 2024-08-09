@@ -106,7 +106,7 @@ input.form-control:focus {
   border-radius: 10px;
   max-width: 60%;
   align-self: flex-end;
-  text-align: right;
+  text-align: left;
   margin-bottom: 2px;
 }
 
