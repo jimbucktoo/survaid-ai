@@ -40,7 +40,6 @@ input.form-control:focus {
 .chatContainer {
   display: flex;
   flex-direction: column;
-  height: 100vh;
   padding: 10px;
 }
 
